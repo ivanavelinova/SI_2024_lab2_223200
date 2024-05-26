@@ -32,13 +32,12 @@ T                                   T                                  F
 Т                                   F                                  F
    
 F                                   T                                  T
-Тест случаи:
-1.price = 350; discount = 0.8; barcode = 07828;
-2.price = 890; discount = 0.9; barcode = 90927;
-3.price = 660; discount = -8; barcode = 55656;
-4.price = 232; discount = 0.3; barcode = 01121;
+- Тест случаи:
+- 1.price = 350; discount = 0.8; barcode = 07828;
+- 2.price = 890; discount = 0.9; barcode = 90927;
+- 3.price = 660; discount = -8; barcode = 55656;
+- 4.price = 232; discount = 0.3; barcode = 01121;
 
-4.
 
 
 

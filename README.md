@@ -23,7 +23,7 @@
 - Враќа true (збирот е 100 + 20 = 120, што е помало од плаќањето)
 - 10.allItems = [new Item("item1", "123456", 100, 0), new Item("item2", "789012", 200, 0.1f)], payment = 100
 - Враќа false (збирот е 100 + 20 = 120, што е повеќе од плаќањето)
-# 5.Tест случаи според Multiple Condition критериумот за условот  if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)== '0')
+# 5.Tест случаи според Multiple Condition критериумот за условот    if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)== '0')
 Т                                   T                                  T
      
 T                                   T                                  F
